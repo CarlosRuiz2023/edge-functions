@@ -1,0 +1,19 @@
+{
+	"geolocation": {
+		"data": {
+			"city": "León",
+			"country": {
+				"code": "MX",
+				"name": "Mexico"
+			},
+			"subdivision": {
+				"code": "GUA",
+				"name": "Guanajuato"
+			},
+			"timezone": "America/Mexico_City",
+			"latitude": 21.1807,
+			"longitude": -101.6625
+		},
+		"timestamp": 1709764134884
+	}
+}
